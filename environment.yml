@@ -1,0 +1,25 @@
+name: gee-houston-flood
+channels:
+  - conda-forge
+dependencies:
+  - nomkl
+  - curl=7.62
+  - python=3.7
+  - matplotlib=3.0
+  - nbserverproxy=0.8
+  - jupyter=1.0
+  - ipywidgets=7.4
+  - ipyleaflet=0.9
+  - jupyterlab=0.35
+  - nodejs=8.12
+  - libgdal=2.4
+  - boto3=1.9
+  - hvplot=0.4
+  - requests=2.20
+  - pandas=0.24
+  - geopandas=0.4
+  - rasterio=1.0
+  - xarray=0.10
+  - google-api-python-client=1.7
+  - earthengine-api=0.1
+  - oauth2client=4.1
