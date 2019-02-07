@@ -1,6 +1,8 @@
 # gee-houston-flood
 proof of concept using sentinel-1 radar and google earth engine python api to map floods after hurrican harvey 
 
+![map](flood-map.png)
+
 ## To run:
 
 ### Get an account with google earth engine and initialize access with a token. See here:
